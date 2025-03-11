@@ -1,6 +1,8 @@
 # Product Inventory API
 
 This API is designed to manage a **Product Inventory System** with support for both **MongoDB** and **PostgreSQL** databases. The API provides authentication, authorization, and full CRUD operations for products.
+If you want to use mysql db its just change the db type on the datastore of relational database also change the connection cerdential on the env file.
+
 
 ## Features
 - **Dual Database Support**: Works with both **MongoDB** and **PostgreSQL**.
